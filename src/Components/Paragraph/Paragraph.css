@@ -1,0 +1,13 @@
+.options {
+    width: 32.5rem;
+    background-color: #c4e8f2;
+    padding: 10px;
+    border-left: 3px black solid;
+}
+
+.red {
+    background-color: red;
+}
+.green{
+    background-color :green;
+}

@@ -1,0 +1,25 @@
+.body {
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    
+  }
+  
+  .options-main {
+    margin: 0 0 0 40px;
+    
+  }
+
+  .option{
+      background-color: cadetblue;
+      padding: 20px;
+      margin: 20px;
+      width: 60%;
+      border: black;
+  }
+  .red {
+    background-color: red;
+}
+.green{
+    background-color :green;
+}
